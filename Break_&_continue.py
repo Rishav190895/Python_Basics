@@ -6,7 +6,7 @@ while (True):
         continue
     print(i+1,end=" ")
     i += 1
-
+print("nikkkkkkkk")
     if i==12:
         break
 
